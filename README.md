@@ -1,5 +1,5 @@
 # Abstractive-Text-Summarization
-This project utilizes Streamlit to create a web application for abstractive text summarization with selective page summarization capabilities. 
+This project utilizes Streamlit to create a web application for abstractive text summarization and with selective page summarization capabilities. 
 
 # 
 
